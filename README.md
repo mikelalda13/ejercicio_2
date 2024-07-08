@@ -18,5 +18,5 @@ print('Hello')
 * [X] Realiza un commit en local.
 * [X] Realiza el push a github para crear el repositorio online.
 * [X] Realiza un merge a la rama main
-* [ ] Realiza el push a github para crear la rama main online.
+* [X] Realiza el push a github para crear la rama main online.
 * [ ] Comparte el repositorio con mikelalda13
