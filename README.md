@@ -7,9 +7,9 @@
 * [X] Crea un archivo README.md que contenga el texto como titulo ejercicio2.
 * [X] Realiza el commit con mensaje "Creando README.md"
 * [X] Inserta una descripción en el README.md
-* [ ] Realiza el commit con mensaje "Modificando README.md"
+* [X] Realiza el commit con mensaje "Modificando README.md"
 
-* [ ] Crea un archivo de python que contenga el siguiente codigo:
+* [X] Crea un archivo de python que contenga el siguiente codigo:
 
 ```python
 print('Hello')
