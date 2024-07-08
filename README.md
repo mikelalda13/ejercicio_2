@@ -15,7 +15,7 @@
 print('Hello')
 ```
 
-* [ ] Realiza un commit en local.
+* [X] Realiza un commit en local.
 * [ ] Realiza el push a github para crear el repositorio online.
 * [ ] Realiza un merge a la rama main
 * [ ] Realiza el push a github para crear la rama main online.
