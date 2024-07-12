@@ -1,4 +1,5 @@
 # Ejercicio 2
+## Pasos a realizar
 
 * [X] Crea un repositorio llamado ejercicio2 en local.
 * [X] Realiza un commit en local con el texto Inicializando el repositorio.
